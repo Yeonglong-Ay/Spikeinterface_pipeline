@@ -1,3 +1,4 @@
+# NOTE: this is a where I use the toy data from Spikeinterface to test a spike sorter, Kilosort3.
 import spikeinterface.sorters as ss
 import spikeinterface.extractors as se
 
